@@ -1,0 +1,16 @@
+- getdatabases
+- getdatabase
+- gettables
+- createcatalogtable
+- gettable
+- replacecatalogtable
+- deletecatalogtable
+- patchcatalogtable
+- patchcatalogtablebyiri
+- suggestcatalogtable
+- gettablecolumns
+- createcatalogcolumn
+- gettablecolumn
+- replacecatalogcolumn
+- deletecatalogcolumn
+- patchcatalogcolumn

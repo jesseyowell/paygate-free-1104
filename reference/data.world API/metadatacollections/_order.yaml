@@ -1,0 +1,6 @@
+- getcatalogs
+- createcatalog
+- getcatalog
+- replacecatalog
+- deletecatalog
+- updatecatalog

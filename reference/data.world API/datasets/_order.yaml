@@ -1,0 +1,11 @@
+- getdatasetsbyowner
+- createdataset
+- deletedataset
+- getdataset
+- patchdataset
+- replacedataset
+- syncfileviaget
+- syncfile
+- getdatasetbyversion
+- downloaddataset
+- fetchdatasets

@@ -1,0 +1,7 @@
+- suggestcataloganalysis
+- getmetadataanalysisbyowner
+- createcataloganalysis
+- getmetadataanalysis
+- replacecataloganalysis
+- deletecataloganalysis
+- patchcataloganalysis

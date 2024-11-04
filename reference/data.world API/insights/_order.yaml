@@ -1,0 +1,7 @@
+- getinsightsforproject
+- createinsight
+- deleteinsight
+- getinsight
+- updateinsight
+- replaceinsight
+- getinsightbyversion

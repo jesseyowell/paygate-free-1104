@@ -1,0 +1,4 @@
+- appendrecords
+- deleterecords
+- getstreamschema
+- patchstreamschema

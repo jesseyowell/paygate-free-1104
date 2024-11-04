@@ -1,0 +1,11 @@
+- deletefilesandsyncsources
+- addfilesbysource
+- deletefileandsyncsource
+- getfilemetadata
+- putfilemetadata
+- patchfilemetadata
+- syncviaget
+- sync
+- downloadfile
+- uploadfiles
+- uploadfile

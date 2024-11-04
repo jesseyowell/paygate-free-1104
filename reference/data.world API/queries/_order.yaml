@@ -1,0 +1,17 @@
+- cancel
+- getdatasetqueries
+- createdatasetsavedquery
+- deletedatasetsavedquery
+- updatedatasetsavedquery
+- getprojectqueries
+- createprojectsavedquery
+- deleteprojectsavedquery
+- updateprojectsavedquery
+- getquery
+- executequery
+- executequerywithpost
+- getqueryversion
+- sparqlget
+- sparqlpost
+- sqlget
+- sqlpost

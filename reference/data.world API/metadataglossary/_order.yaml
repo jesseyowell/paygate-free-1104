@@ -1,0 +1,7 @@
+- suggestcatalogglossary
+- getmetadataglossarybyowner
+- createcatalogglossary
+- getmetadataglossary
+- replacecatalogglossary
+- deletecatalogglossary
+- patchcatalogglossary
